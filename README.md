@@ -1,4 +1,4 @@
-# Modern Real-Time Object Detection 🚀
+# Modern Real-Time Object Detection 
 
 This repository contains an **enhanced real-time object detection system** built using **YOLOv8**.  
 It supports live webcam input, video files, and RTSP streams with options for saving results, showing FPS, and customizing detection thresholds.
@@ -6,13 +6,13 @@ It supports live webcam input, video files, and RTSP streams with options for sa
 ---
 
 ## ✨ Features
-- 📷 Real-time object detection using **YOLOv8**  
-- ⚡ Optimized for **CPU, CUDA (GPU), and Apple MPS**  
-- 🎯 Configurable **confidence & IoU thresholds**  
-- 🎨 Automatic bounding box coloring and labeling  
-- 📊 FPS counter with smoothing  
-- 💾 Option to save processed video outputs  
-- 🔄 Supports multiple input sources (webcam, video file, RTSP streams)
+-  Real-time object detection using **YOLOv8**  
+-  Optimized for **CPU, CUDA (GPU), and Apple MPS**  
+-  Configurable **confidence & IoU thresholds**  
+-  Automatic bounding box coloring and labeling  
+-  FPS counter with smoothing  
+-  Option to save processed video outputs  
+-  Supports multiple input sources (webcam, video file, RTSP streams)
 
 ---
 
@@ -32,7 +32,7 @@ pip install ultralytics torch torchvision opencv-python numpy
 
 ---
 
-## 🚀 Usage
+## 🔃 Usage
 
 ### Run on Webcam
 ```bash
@@ -90,9 +90,9 @@ modern-object-detection/
 
 ---
 
-## 🤝 Contributing
-Feel free to fork this repo and submit pull requests for improvements!
-
+## 🤝 Contributions:
+Narendra K Yadav
+Pranav Trivedi
 ---
 
 ## 📜 License

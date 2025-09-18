@@ -91,8 +91,8 @@ modern-object-detection/
 ---
 
 ## 🤝 Contributions:
-Narendra K Yadav
-Pranav Trivedi
+- Narendra K Yadav
+- Pranav Trivedi
 ---
 
 ## 📜 License
